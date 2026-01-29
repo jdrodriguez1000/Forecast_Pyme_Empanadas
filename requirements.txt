@@ -11,3 +11,5 @@ openpyxl
 statsmodels
 tqdm
 python-dotenv
+
+supabase
