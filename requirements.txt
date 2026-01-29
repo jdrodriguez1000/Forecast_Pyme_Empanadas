@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+skforecast
+xgboost
+lightgbm
+matplotlib
+seaborn
+ipykernel
+openpyxl
+statsmodels
+tqdm
+python-dotenv
