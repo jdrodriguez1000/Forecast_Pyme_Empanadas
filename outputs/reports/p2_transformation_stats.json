@@ -1,0 +1,15 @@
+{
+    "fase": 2,
+    "nombre": "Transformaci\u00f3n Est\u00e1ndar (Sin Imputaci\u00f3n)",
+    "timestamp": "2026-01-29 15:47:18",
+    "integrity": {
+        "total_input_clean": 2485702.0,
+        "total_output_monthly": 2485702.0,
+        "diff": 0.0,
+        "check_ok": true
+    },
+    "dimensions": {
+        "rows_raw": 30099,
+        "rows_transformed": 17380
+    }
+}
