@@ -1,0 +1,32 @@
+{
+    "rows": 30099,
+    "columns": 11,
+    "columns_list": [
+        "id",
+        "fecha",
+        "region",
+        "punto_venta",
+        "metodo_pago",
+        "tipo",
+        "unidades_vendidas",
+        "precio_venta",
+        "ingresos_totales",
+        "costo_unitario",
+        "created_at"
+    ],
+    "date_min": "2018-01-01",
+    "date_max": "2025-12-31",
+    "nulls": {
+        "id": 0,
+        "fecha": 0,
+        "region": 0,
+        "punto_venta": 0,
+        "metodo_pago": 0,
+        "tipo": 0,
+        "unidades_vendidas": 0,
+        "precio_venta": 0,
+        "ingresos_totales": 0,
+        "costo_unitario": 0,
+        "created_at": 0
+    }
+}

@@ -48,3 +48,4 @@ outputs/models/*
 !outputs/models/.gitkeep
 *.csv
 *.xlsx
+test_output.txt

@@ -14,7 +14,7 @@ Implement a monthly forecasting engine (Horizon: 3 months) to reduce planning er
 ## Phases
 
 ### Phase 1: Data Loading (Supabase)
-**Status**: Not Started
+**Status**: Completed
 - **Goal**: Fetch raw daily data.
 - **Tasks**: Connect and download `ventas_raw`.
 - **Outputs**: `p1_load_stats.json`, `p1_loading_report.md`.
